@@ -9,8 +9,3 @@ inc = ++a
 dec = --b
 
 console.log(add);
-console.log(sub);
-console.log(mul);
-console.log(div);
-console.log(inc);
-console.log(dec);
